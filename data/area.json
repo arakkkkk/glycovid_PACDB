@@ -1,1 +1,605 @@
-[{"label": "", "sugarbind_label": "Central nervous system", "id": "20"}, {"label": "HeLa cells, Rabbit jejunul mucosa", "sugarbind_label": "", "id": ""}, {"label": "Nucleated bovine cells", "sugarbind_label": "", "id": ""}, {"label": "human granulocytes", "sugarbind_label": "", "id": ""}, {"label": "HL-60 promyelocytic leukemia cell line", "sugarbind_label": "", "id": ""}, {"label": "Serum, Saliva, Nasal/bronchial wash samples", "sugarbind_label": "", "id": ""}, {"label": "Various human tissues (leukocytes/erythrocytes/small intestine/stomach/meconium/colon/pancreas)", "sugarbind_label": "", "id": ""}, {"label": "Intestinal epithelium, Rabbit intestine", "sugarbind_label": "", "id": ""}, {"label": "Sigma", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes, Whole dog small intestine", "sugarbind_label": "", "id": ""}, {"label": "Ubiquitously expressed in most tissues (e.g. human erythrocytes/endothelium/kidney/platelet)", "sugarbind_label": "", "id": ""}, {"label": "Human T cells", "sugarbind_label": "", "id": ""}, {"label": "HEp-2 cells", "sugarbind_label": "", "id": ""}, {"label": "Human small intestine", "sugarbind_label": "", "id": ""}, {"label": "Human gastric epithelium", "sugarbind_label": "", "id": ""}, {"label": "Human lung epithelial cell line (A549)", "sugarbind_label": "", "id": ""}, {"label": "Murine intestine, Murine spleen, Murine liver, Murine brain, Human cholangiocarcinoma cells", "sugarbind_label": "", "id": ""}, {"label": "Human corneal epithelial(HEC) cells", "sugarbind_label": "", "id": ""}, {"label": "Fibroblasts, Epithelial cells, Endothelial cells, Hepatocytes", "sugarbind_label": "", "id": ""}, {"label": "Acute cystitis patients", "sugarbind_label": "", "id": ""}, {"label": "Respiratory endothelial cells", "sugarbind_label": "", "id": ""}, {"label": "Cell surface", "sugarbind_label": "", "id": ""}, {"label": "Detroit 562/A549 cell lines", "sugarbind_label": "", "id": ""}, {"label": "Cystic fibrosis patients", "sugarbind_label": "", "id": ""}, {"label": "Dental plaque (caries-associated)", "sugarbind_label": "", "id": ""}, {"label": "Vascular endothelial/epithelial cells of the choroid plexus, Ependyma cells lining the brain ventricles", "sugarbind_label": "", "id": ""}, {"label": "humHn oral cavity (root dentine)", "sugarbind_label": "", "id": ""}, {"label": "Respiratory tract", "sugarbind_label": "", "id": ""}, {"label": "Lung", "sugarbind_label": "Lung", "id": "2"}, {"label": "Gastric epithelium, Mucus layer of the stomach", "sugarbind_label": "", "id": ""}, {"label": "Human skin", "sugarbind_label": "", "id": ""}, {"label": "Cytokine-activated cells", "sugarbind_label": "", "id": ""}, {"label": "Platelet", "sugarbind_label": "", "id": ""}, {"label": "Serum", "sugarbind_label": "", "id": ""}, {"label": "Porcine serum albumin(PSA)", "sugarbind_label": "", "id": ""}, {"label": "Piglet intestine", "sugarbind_label": "", "id": ""}, {"label": "Eukaryotic cells", "sugarbind_label": "", "id": ""}, {"label": "Human colon carcinoma Caco-2 cell line", "sugarbind_label": "", "id": ""}, {"label": "Human placenta", "sugarbind_label": "", "id": ""}, {"label": "Human meconium", "sugarbind_label": "", "id": ""}, {"label": "Uroepithelial cells, Erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Stomach", "sugarbind_label": "Stomach", "id": "24"}, {"label": "Rat colon carcinoma", "sugarbind_label": "", "id": ""}, {"label": "V[alpha]14+ NK1.1- T cells in infected liver of mice", "sugarbind_label": "", "id": ""}, {"label": "Patient with septic infection or pyelonephritis", "sugarbind_label": "", "id": ""}, {"label": "Various sources", "sugarbind_label": "", "id": ""}, {"label": "c-Met on hepatocytes", "sugarbind_label": "", "id": ""}, {"label": "HL-60 promyelocytic leukemia cell line, Leukosialin (CD43)", "sugarbind_label": "", "id": ""}, {"label": "Vero cells", "sugarbind_label": "", "id": ""}, {"label": "Apical membrane of cystic fibrosis epithelia, Patients with pneumonia", "sugarbind_label": "", "id": ""}, {"label": "Mucos membranes of the genitourinary tract/rectum/oropharynx/conjunctiva", "sugarbind_label": "", "id": ""}, {"label": "Porcine kidney", "sugarbind_label": "", "id": ""}, {"label": "Urine", "sugarbind_label": "", "id": ""}, {"label": "Brain endothelial cells", "sugarbind_label": "", "id": ""}, {"label": "Presynaptic neuronal cells", "sugarbind_label": "", "id": ""}, {"label": "Colonic adenocarcinoma", "sugarbind_label": "", "id": ""}, {"label": "Intestinal epithelial cells (T84)", "sugarbind_label": "", "id": ""}, {"label": "Tooth surface", "sugarbind_label": "", "id": ""}, {"label": "Murine Engelbreth Holm Swarm tumor, Murine erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Bladder epithelium", "sugarbind_label": "", "id": ""}, {"label": "Monocytes", "sugarbind_label": "", "id": ""}, {"label": "Frog brain", "sugarbind_label": "", "id": ""}, {"label": "Other than pharyngeal epithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Human serum albumin", "sugarbind_label": "", "id": ""}, {"label": "Lumenal surfaces of the vascular endothelium in the neonatal rat brain", "sugarbind_label": "", "id": ""}, {"label": "Uroepithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Phagocytes", "sugarbind_label": "", "id": ""}, {"label": "Chicken embryo related cells", "sugarbind_label": "", "id": ""}, {"label": "Gonorrhoeae patients", "sugarbind_label": "", "id": ""}, {"label": "Feline kidney(CRFK)/Equine fetal kidney(EFK)/Mouse(McCoy)/Rabbit kidney(RK-13)", "sugarbind_label": "", "id": ""}, {"label": "Polymorphonuclear leukocytes (PMNs)", "sugarbind_label": "", "id": ""}, {"label": "Human cervical cells", "sugarbind_label": "", "id": ""}, {"label": "Human gastric mucosa", "sugarbind_label": "", "id": ""}, {"label": "Intestinal cells", "sugarbind_label": "", "id": ""}, {"label": "Central nervous system", "sugarbind_label": "Central nervous system", "id": "20"}, {"label": "Human kidney", "sugarbind_label": "", "id": ""}, {"label": "Avian/equine isolates", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes, Human leukocytes, Human placenta", "sugarbind_label": "", "id": ""}, {"label": "Human stomach associated with gastritis and peptic ulcer disease", "sugarbind_label": "", "id": ""}, {"label": "Erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Oyster digestive tissues", "sugarbind_label": "", "id": ""}, {"label": "Human type B erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "BHK-21 cells", "sugarbind_label": "", "id": ""}, {"label": "Apical membrane of cystic fibrosis epithelia", "sugarbind_label": "", "id": ""}, {"label": "Kidney", "sugarbind_label": "Kidney", "id": "23"}, {"label": "Human epithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Rat serum", "sugarbind_label": "", "id": ""}, {"label": "Human bile bladder tumor", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes, Rat small intestine", "sugarbind_label": "", "id": ""}, {"label": "Pyelonephritis patients", "sugarbind_label": "", "id": ""}, {"label": "Vascular endothelial cells (only)", "sugarbind_label": "", "id": ""}, {"label": "Intestinal tract", "sugarbind_label": "", "id": ""}, {"label": "Guinea pig erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Human colon epithelial HT29 cells", "sugarbind_label": "", "id": ""}, {"label": "Neural receptor", "sugarbind_label": "", "id": ""}, {"label": "Human isolates", "sugarbind_label": "", "id": ""}, {"label": "Human", "sugarbind_label": "", "id": ""}, {"label": "Presynaptic membrane of neuromuscular junction", "sugarbind_label": "", "id": ""}, {"label": "Glycophorins A/B on the erythrocyte membrane", "sugarbind_label": "", "id": ""}, {"label": "Surface of chinese hamster ovary (CHO) cells", "sugarbind_label": "", "id": ""}, {"label": "Human leukocytes, Human neutrophils", "sugarbind_label": "", "id": ""}, {"label": "Gastric epithelial progenitors (GEPs)", "sugarbind_label": "", "id": ""}, {"label": "Horse erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Human oral cavity (erythrocytes and polymorphonuclear leukocytes)", "sugarbind_label": "", "id": ""}, {"label": "Human granulocytes", "sugarbind_label": "", "id": ""}, {"label": "Human brain, Mouse small intestine", "sugarbind_label": "", "id": ""}, {"label": "Human conjunctival cells (respiratory tract)", "sugarbind_label": "", "id": ""}, {"label": "Human saliva", "sugarbind_label": "", "id": ""}, {"label": "Mouse intestine", "sugarbind_label": "", "id": ""}, {"label": "Mouse large intestine", "sugarbind_label": "", "id": ""}, {"label": "Bronchial lavages of sheep with pneumonic pasteurelosis", "sugarbind_label": "", "id": ""}, {"label": "Most tissues", "sugarbind_label": "", "id": ""}, {"label": "GI/kidney", "sugarbind_label": "", "id": ""}, {"label": "Synapse", "sugarbind_label": "", "id": ""}, {"label": "Neural cell lines", "sugarbind_label": "", "id": ""}, {"label": "Human brain", "sugarbind_label": "", "id": ""}, {"label": "Urine (microvilli of the intestinal epithelium of ruminants)", "sugarbind_label": "", "id": ""}, {"label": "Human colonic cells", "sugarbind_label": "", "id": ""}, {"label": "Rat small intestine", "sugarbind_label": "", "id": ""}, {"label": "Extracellular matrix (ECM)", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes, Rabbit intestine", "sugarbind_label": "", "id": ""}, {"label": "Epithelial cells, Extracellular matrix (ECM)", "sugarbind_label": "", "id": ""}, {"label": "Human colonocytes and enterocytes", "sugarbind_label": "", "id": ""}, {"label": "Human epithelial cells (respiratory tract)", "sugarbind_label": "", "id": ""}, {"label": "Human neutrophil granulocytes", "sugarbind_label": "", "id": ""}, {"label": "Rabbit erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Rat intestine", "sugarbind_label": "", "id": ""}, {"label": "Synthetic", "sugarbind_label": "", "id": ""}, {"label": "Cytokine activated epithelial and endothelial cells", "sugarbind_label": "", "id": ""}, {"label": "Mammalian cell surface", "sugarbind_label": "", "id": ""}, {"label": "Guinea pig serum", "sugarbind_label": "", "id": ""}, {"label": "Mouse small intestine", "sugarbind_label": "", "id": ""}, {"label": "HeLa cells", "sugarbind_label": "", "id": ""}, {"label": "Vero E6/P388D1 cells", "sugarbind_label": "", "id": ""}, {"label": "Epithelial cells in human urinary tract", "sugarbind_label": "", "id": ""}, {"label": "Mouse", "sugarbind_label": "", "id": ""}, {"label": "C6 glioma cells, EA-Hy926 cells", "sugarbind_label": "", "id": ""}, {"label": "Human oral cavity (surface-bound)", "sugarbind_label": "", "id": ""}, {"label": "Germinal center B lymphocytes, Burkitt's lymphoma cells", "sugarbind_label": "", "id": ""}, {"label": "(broad range)", "sugarbind_label": "", "id": ""}, {"label": "Pig small intestine", "sugarbind_label": "", "id": ""}, {"label": "Epithelial cells", "sugarbind_label": "Colonic epithelial cells", "id": "18"}, {"label": "ECM", "sugarbind_label": "", "id": ""}, {"label": "Bovine", "sugarbind_label": "", "id": ""}, {"label": "Mucosal surface of the gastric epithelium", "sugarbind_label": "", "id": ""}, {"label": "Epithelial cells of small intestine", "sugarbind_label": "", "id": ""}, {"label": "Primary chicken embryo fibroblasts (CEFs)", "sugarbind_label": "", "id": ""}, {"label": "Rabbit thymus, Human erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Buccae", "sugarbind_label": "", "id": ""}, {"label": "Airways", "sugarbind_label": "", "id": ""}, {"label": "Human lung, Human trachea", "sugarbind_label": "", "id": ""}, {"label": "Human buccal epihelial cells (BECs)", "sugarbind_label": "", "id": ""}, {"label": "Plaque", "sugarbind_label": "", "id": ""}, {"label": "Human leukocytes", "sugarbind_label": "", "id": ""}, {"label": "Chinchilla tracheal epithelium", "sugarbind_label": "", "id": ""}, {"label": "Granulocytes", "sugarbind_label": "", "id": ""}, {"label": "Human colon adenocarcinoma cells (WiDr )", "sugarbind_label": "", "id": ""}, {"label": "Macrophages", "sugarbind_label": "", "id": ""}, {"label": "Human neutrophils", "sugarbind_label": "", "id": ""}, {"label": "Sputa of cystic fibrosis patients", "sugarbind_label": "", "id": ""}, {"label": "Human alveolar macrophages", "sugarbind_label": "", "id": ""}, {"label": "Human endothelial cells", "sugarbind_label": "", "id": ""}, {"label": "Bovine erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Fetal calf serum", "sugarbind_label": "", "id": ""}, {"label": "Patient with urinary tract infection", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes, Human placenta", "sugarbind_label": "", "id": ""}, {"label": "Nasopharynx, Alveolar epithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Bovine buttermilk", "sugarbind_label": "", "id": ""}, {"label": "Patient with acute watery diarrhea", "sugarbind_label": "", "id": ""}, {"label": "Human kidney tissues", "sugarbind_label": "", "id": ""}, {"label": "Intestine-407 cells", "sugarbind_label": "", "id": ""}, {"label": "Human colonic epithelial cell lines (HT-29/HT-29-A7/HT-29-D4)", "sugarbind_label": "", "id": ""}, {"label": "Colon", "sugarbind_label": "Colonic epithelial cells", "id": "18"}, {"label": "Rat small intestine, Wild boar intestine, Monkey intestine", "sugarbind_label": "", "id": ""}, {"label": "Pharyngeal epithelial cells", "sugarbind_label": "Pharyngeal epithelial cells", "id": "14"}, {"label": "Human U373-MG glioma and SK-N-MC neuroblastoma cells, Human colon epithelial HT29 cells", "sugarbind_label": "", "id": ""}, {"label": "Rabbit small intestine", "sugarbind_label": "", "id": ""}, {"label": "Molecules on the erythrocyte membrane (other than glycophorins A and B)", "sugarbind_label": "", "id": ""}, {"label": "Neurones of all brain regions", "sugarbind_label": "", "id": ""}, {"label": "Human pharyngeal epithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Cat intestine", "sugarbind_label": "", "id": ""}, {"label": "MA-104 cells", "sugarbind_label": "", "id": ""}, {"label": "Human granulocytes, Human erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Human lung, Human polymorphonuclear leukocytes, Human glioma brain cells", "sugarbind_label": "", "id": ""}, {"label": "Brain membrane", "sugarbind_label": "", "id": ""}, {"label": "Respiratory ciliated cells, Alveolar macrophages", "sugarbind_label": "", "id": ""}, {"label": "Type-II lung cells, Vascular endothelial cells", "sugarbind_label": "", "id": ""}, {"label": "Genitalium", "sugarbind_label": "", "id": ""}, {"label": "WiDr cells, HeLa cells, Vero cells, Extracellular matrix (ECM)", "sugarbind_label": "", "id": ""}, {"label": "Respiratory epithelial cells (A549)", "sugarbind_label": "", "id": ""}, {"label": "Chinchilla tubotympanum", "sugarbind_label": "", "id": ""}, {"label": "Dog intestine", "sugarbind_label": "", "id": ""}, {"label": "Septicemic avian epithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Human cilia of the respiratory epithelium", "sugarbind_label": "", "id": ""}, {"label": "Ciliated epithelium of the respiratory tract", "sugarbind_label": "", "id": ""}, {"label": "Whole dog small intestine", "sugarbind_label": "", "id": ""}, {"label": "Rabbit thymus", "sugarbind_label": "", "id": ""}, {"label": "BHK-21/LLC-MK2/HeLa/BK-LF", "sugarbind_label": "", "id": ""}, {"label": "Neonatal meningitis", "sugarbind_label": "", "id": ""}, {"label": "Endothelial cells", "sugarbind_label": "", "id": ""}, {"label": "Human lung, Human polymorphonuclear leukocytes", "sugarbind_label": "", "id": ""}, {"label": "Porcine serum", "sugarbind_label": "", "id": ""}, {"label": "Most organs including the central nervous system/heart/liver", "sugarbind_label": "", "id": ""}, {"label": "Murine macrophages", "sugarbind_label": "", "id": ""}, {"label": "human erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Dog small intestine", "sugarbind_label": "", "id": ""}, {"label": "Pig neurons, glial cells", "sugarbind_label": "", "id": ""}, {"label": "Bovine brain", "sugarbind_label": "", "id": ""}, {"label": "A549 cells", "sugarbind_label": "", "id": ""}, {"label": "Murine small plaque", "sugarbind_label": "", "id": ""}, {"label": "Respiratory epithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Human corneal-limbal epithelial(HCLE) cells", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes, Human uroepithelial cells", "sugarbind_label": "", "id": ""}, {"label": "Glial cells", "sugarbind_label": "", "id": ""}, {"label": "Tongue", "sugarbind_label": "", "id": ""}, {"label": "Human oral cavity (in fluid and surface-associated phases)", "sugarbind_label": "", "id": ""}, {"label": "Human platelets", "sugarbind_label": "", "id": ""}, {"label": "Mouse feces", "sugarbind_label": "", "id": ""}, {"label": "Porcine intestine", "sugarbind_label": "", "id": ""}, {"label": "Human type II alveolar cells (A549)", "sugarbind_label": "", "id": ""}, {"label": "Saliva", "sugarbind_label": "", "id": ""}, {"label": "Human erythrocytes", "sugarbind_label": "", "id": ""}, {"label": "Human peripheral blood buffy coat cells", "sugarbind_label": "", "id": ""}]
+[
+    { "label": "", "sugarbind_label": "Central nervous system", "id": "20" },
+    {
+        "label": "HeLa cells, Rabbit jejunul mucosa",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Nucleated bovine cells", "sugarbind_label": "", "id": "" },
+    { "label": "human granulocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "HL-60 promyelocytic leukemia cell line",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Serum, Saliva, Nasal/bronchial wash samples",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Various human tissues (leukocytes/erythrocytes/small intestine/stomach/meconium/colon/pancreas)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Intestinal epithelium, Rabbit intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Sigma", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human erythrocytes, Whole dog small intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Ubiquitously expressed in most tissues (e.g. human erythrocytes/endothelium/kidney/platelet)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human T cells", "sugarbind_label": "", "id": "" },
+    { "label": "HEp-2 cells", "sugarbind_label": "", "id": "" },
+    { "label": "Human small intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Human gastric epithelium", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human lung epithelial cell line (A549)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Murine intestine, Murine spleen, Murine liver, Murine brain, Human cholangiocarcinoma cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human corneal epithelial(HEC) cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Fibroblasts, Epithelial cells, Endothelial cells, Hepatocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Acute cystitis patients", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Respiratory endothelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Cell surface", "sugarbind_label": "", "id": "" },
+    { "label": "Detroit 562/A549 cell lines", "sugarbind_label": "", "id": "" },
+    { "label": "Cystic fibrosis patients", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Dental plaque (caries-associated)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Vascular endothelial/epithelial cells of the choroid plexus, Ependyma cells lining the brain ventricles",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "humHn oral cavity (root dentine)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Respiratory tract", "sugarbind_label": "", "id": "" },
+    { "label": "Lung", "sugarbind_label": "Lung", "id": "2" },
+    {
+        "label": "Gastric epithelium, Mucus layer of the stomach",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human skin", "sugarbind_label": "", "id": "" },
+    { "label": "Cytokine-activated cells", "sugarbind_label": "", "id": "" },
+    { "label": "Platelet", "sugarbind_label": "", "id": "" },
+    { "label": "Serum", "sugarbind_label": "", "id": "" },
+    { "label": "Porcine serum albumin(PSA)", "sugarbind_label": "", "id": "" },
+    { "label": "Piglet intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Eukaryotic cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human colon carcinoma Caco-2 cell line",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human placenta", "sugarbind_label": "", "id": "" },
+    { "label": "Human meconium", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Uroepithelial cells, Erythrocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Stomach", "sugarbind_label": "Stomach", "id": "24" },
+    { "label": "Rat colon carcinoma", "sugarbind_label": "", "id": "" },
+    {
+        "label": "V[alpha]14+ NK1.1- T cells in infected liver of mice",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Patient with septic infection or pyelonephritis",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Various sources", "sugarbind_label": "", "id": "" },
+    { "label": "c-Met on hepatocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "HL-60 promyelocytic leukemia cell line, Leukosialin (CD43)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Vero cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Apical membrane of cystic fibrosis epithelia, Patients with pneumonia",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Mucos membranes of the genitourinary tract/rectum/oropharynx/conjunctiva",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Porcine kidney", "sugarbind_label": "", "id": "" },
+    { "label": "Urine", "sugarbind_label": "", "id": "" },
+    { "label": "Brain endothelial cells", "sugarbind_label": "", "id": "" },
+    { "label": "Presynaptic neuronal cells", "sugarbind_label": "", "id": "" },
+    { "label": "Colonic adenocarcinoma", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Intestinal epithelial cells (T84)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Tooth surface", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Murine Engelbreth Holm Swarm tumor, Murine erythrocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Bladder epithelium", "sugarbind_label": "", "id": "" },
+    { "label": "Monocytes", "sugarbind_label": "", "id": "" },
+    { "label": "Frog brain", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Other than pharyngeal epithelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human serum albumin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Lumenal surfaces of the vascular endothelium in the neonatal rat brain",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Uroepithelial cells", "sugarbind_label": "", "id": "" },
+    { "label": "Phagocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Chicken embryo related cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Gonorrhoeae patients", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Feline kidney(CRFK)/Equine fetal kidney(EFK)/Mouse(McCoy)/Rabbit kidney(RK-13)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Polymorphonuclear leukocytes (PMNs)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human cervical cells", "sugarbind_label": "", "id": "" },
+    { "label": "Human gastric mucosa", "sugarbind_label": "", "id": "" },
+    { "label": "Intestinal cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Central nervous system",
+        "sugarbind_label": "Central nervous system",
+        "id": "20"
+    },
+    { "label": "Human kidney", "sugarbind_label": "", "id": "" },
+    { "label": "Avian/equine isolates", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human erythrocytes, Human leukocytes, Human placenta",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human stomach associated with gastritis and peptic ulcer disease",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Erythrocytes", "sugarbind_label": "", "id": "" },
+    { "label": "Oyster digestive tissues", "sugarbind_label": "", "id": "" },
+    { "label": "Human type B erythrocytes", "sugarbind_label": "", "id": "" },
+    { "label": "BHK-21 cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Apical membrane of cystic fibrosis epithelia",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Kidney", "sugarbind_label": "Kidney", "id": "23" },
+    { "label": "Human epithelial cells", "sugarbind_label": "", "id": "" },
+    { "label": "Rat serum", "sugarbind_label": "", "id": "" },
+    { "label": "Human bile bladder tumor", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human erythrocytes, Rat small intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Pyelonephritis patients", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Vascular endothelial cells (only)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Intestinal tract", "sugarbind_label": "", "id": "" },
+    { "label": "Guinea pig erythrocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human colon epithelial HT29 cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Neural receptor", "sugarbind_label": "", "id": "" },
+    { "label": "Human isolates", "sugarbind_label": "", "id": "" },
+    { "label": "Human", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Presynaptic membrane of neuromuscular junction",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glycophorins A/B on the erythrocyte membrane",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Surface of chinese hamster ovary (CHO) cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human leukocytes, Human neutrophils",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Gastric epithelial progenitors (GEPs)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Horse erythrocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human oral cavity (erythrocytes and polymorphonuclear leukocytes)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human granulocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human brain, Mouse small intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human conjunctival cells (respiratory tract)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human saliva", "sugarbind_label": "", "id": "" },
+    { "label": "Mouse intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Mouse large intestine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Bronchial lavages of sheep with pneumonic pasteurelosis",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Most tissues", "sugarbind_label": "", "id": "" },
+    { "label": "GI/kidney", "sugarbind_label": "", "id": "" },
+    { "label": "Synapse", "sugarbind_label": "", "id": "" },
+    { "label": "Neural cell lines", "sugarbind_label": "", "id": "" },
+    { "label": "Human brain", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Urine (microvilli of the intestinal epithelium of ruminants)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human colonic cells", "sugarbind_label": "", "id": "" },
+    { "label": "Rat small intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Extracellular matrix (ECM)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human erythrocytes, Rabbit intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Epithelial cells, Extracellular matrix (ECM)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human colonocytes and enterocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human epithelial cells (respiratory tract)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human neutrophil granulocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Rabbit erythrocytes", "sugarbind_label": "", "id": "" },
+    { "label": "Rat intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Synthetic", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Cytokine activated epithelial and endothelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Mammalian cell surface", "sugarbind_label": "", "id": "" },
+    { "label": "Guinea pig serum", "sugarbind_label": "", "id": "" },
+    { "label": "Mouse small intestine", "sugarbind_label": "", "id": "" },
+    { "label": "HeLa cells", "sugarbind_label": "", "id": "" },
+    { "label": "Vero E6/P388D1 cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Epithelial cells in human urinary tract",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Mouse", "sugarbind_label": "", "id": "" },
+    {
+        "label": "C6 glioma cells, EA-Hy926 cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human oral cavity (surface-bound)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Germinal center B lymphocytes, Burkitt's lymphoma cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "(broad range)", "sugarbind_label": "", "id": "" },
+    { "label": "Pig small intestine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Epithelial cells",
+        "sugarbind_label": "Colonic epithelial cells",
+        "id": "18"
+    },
+    { "label": "ECM", "sugarbind_label": "", "id": "" },
+    { "label": "Bovine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Mucosal surface of the gastric epithelium",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Epithelial cells of small intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Primary chicken embryo fibroblasts (CEFs)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Rabbit thymus, Human erythrocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Buccae", "sugarbind_label": "", "id": "" },
+    { "label": "Airways", "sugarbind_label": "", "id": "" },
+    { "label": "Human lung, Human trachea", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human buccal epihelial cells (BECs)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Plaque", "sugarbind_label": "", "id": "" },
+    { "label": "Human leukocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Chinchilla tracheal epithelium",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Granulocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human colon adenocarcinoma cells (WiDr )",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Macrophages", "sugarbind_label": "", "id": "" },
+    { "label": "Human neutrophils", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sputa of cystic fibrosis patients",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human alveolar macrophages", "sugarbind_label": "", "id": "" },
+    { "label": "Human endothelial cells", "sugarbind_label": "", "id": "" },
+    { "label": "Bovine erythrocytes", "sugarbind_label": "", "id": "" },
+    { "label": "Fetal calf serum", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Patient with urinary tract infection",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human erythrocytes, Human placenta",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Nasopharynx, Alveolar epithelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Bovine buttermilk", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Patient with acute watery diarrhea",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human kidney tissues", "sugarbind_label": "", "id": "" },
+    { "label": "Intestine-407 cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human colonic epithelial cell lines (HT-29/HT-29-A7/HT-29-D4)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Colon",
+        "sugarbind_label": "Colonic epithelial cells",
+        "id": "18"
+    },
+    {
+        "label": "Rat small intestine, Wild boar intestine, Monkey intestine",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Pharyngeal epithelial cells",
+        "sugarbind_label": "Pharyngeal epithelial cells",
+        "id": "14"
+    },
+    {
+        "label": "Human U373-MG glioma and SK-N-MC neuroblastoma cells, Human colon epithelial HT29 cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Rabbit small intestine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Molecules on the erythrocyte membrane (other than glycophorins A and B)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Neurones of all brain regions",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human pharyngeal epithelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Cat intestine", "sugarbind_label": "", "id": "" },
+    { "label": "MA-104 cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human granulocytes, Human erythrocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human lung, Human polymorphonuclear leukocytes, Human glioma brain cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Brain membrane", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Respiratory ciliated cells, Alveolar macrophages",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Type-II lung cells, Vascular endothelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Genitalium", "sugarbind_label": "", "id": "" },
+    {
+        "label": "WiDr cells, HeLa cells, Vero cells, Extracellular matrix (ECM)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Respiratory epithelial cells (A549)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Chinchilla tubotympanum", "sugarbind_label": "", "id": "" },
+    { "label": "Dog intestine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Septicemic avian epithelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human cilia of the respiratory epithelium",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Ciliated epithelium of the respiratory tract",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Whole dog small intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Rabbit thymus", "sugarbind_label": "", "id": "" },
+    { "label": "BHK-21/LLC-MK2/HeLa/BK-LF", "sugarbind_label": "", "id": "" },
+    { "label": "Neonatal meningitis", "sugarbind_label": "", "id": "" },
+    { "label": "Endothelial cells", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human lung, Human polymorphonuclear leukocytes",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Porcine serum", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Most organs including the central nervous system/heart/liver",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Murine macrophages", "sugarbind_label": "", "id": "" },
+    { "label": "human erythrocytes", "sugarbind_label": "", "id": "" },
+    { "label": "Dog small intestine", "sugarbind_label": "", "id": "" },
+    { "label": "Pig neurons, glial cells", "sugarbind_label": "", "id": "" },
+    { "label": "Bovine brain", "sugarbind_label": "", "id": "" },
+    { "label": "A549 cells", "sugarbind_label": "", "id": "" },
+    { "label": "Murine small plaque", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Respiratory epithelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human corneal-limbal epithelial(HCLE) cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Human erythrocytes, Human uroepithelial cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Glial cells", "sugarbind_label": "", "id": "" },
+    { "label": "Tongue", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human oral cavity (in fluid and surface-associated phases)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Human platelets", "sugarbind_label": "", "id": "" },
+    { "label": "Mouse feces", "sugarbind_label": "", "id": "" },
+    { "label": "Porcine intestine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human type II alveolar cells (A549)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Saliva", "sugarbind_label": "", "id": "" },
+    { "label": "Human erythrocytes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human peripheral blood buffy coat cells",
+        "sugarbind_label": "",
+        "id": ""
+    }
+]
