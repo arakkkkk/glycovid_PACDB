@@ -1,0 +1,1176 @@
+[
+    {
+        "label": "\u03b1-sialyl-2-3-\u03b2-galactose",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Lyso-PE", "sugarbind_label": "", "id": "" },
+    { "label": "GD2(NeuGc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Galactosylceramide (nonhydroxylated fatty acids)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "isoGb4 (Isoglobotetraosylceramide; iGb4)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Mannose oligosaccharides", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Polysialogangliosides and other acidic lipids",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "High mannose glycans containig the Man\u03b11-2Man\u03b11-6Man\u03b11-6 structure",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "\u03b1-Gal on Fab of IgA(\u03ba) MAb",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "NeuAc-SLex (GSL) (Sialylneolactofucopentaosylcer)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialyl-3-Paragloboside (S-3-PG; \u03b12,3-sialylparagloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "L-Fucose-containing residues",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "N-acetylhexosamine-galactose",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Lactosylceramide (d18:1-16:0/24:1)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "Thyroglobulin containing N-linked complex and hybrid (oligomannosidic) glycans",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM2(NeuGc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Chondroitin 4-sulfate (C-4S)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "hCG (human chorionic gonadotropin)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Neuraminic acid",
+        "sugarbind_label": "N-acetylneuraminic acid (NANA, Sialic acid, NeuAc)",
+        "id": "35"
+    },
+    {
+        "label": "GSLs containing terminal Gal(3SO4)\u03b21-residues",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "\u03b2-Gal on Fab of IgG3(\u03bb) MAb",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Asialo-GM2 (Gangliotriosylceramide; GgO3)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Fuc-nLc6 (V3)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Lactotriaosylceramide (Lc3)",
+        "sugarbind_label": "Lactotriaosylceramide (Lc3)",
+        "id": "20"
+    },
+    {
+        "label": "NeuAc6-Lc4Cer (Sialyl lactotetraosylceramide)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Globo-A", "sugarbind_label": "Globo-A", "id": "64" },
+    {
+        "label": "Lipid extracts of Hep-2 cells",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "MUC1 mucin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Phenyl-\u03b2-thiogalactoside",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Fucosylated Lewis b (Leb) histoblood group antigens",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Lc4Cer (Lactotetraosylceramide)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "NeuGc3-nLc6Cer", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sialic acid (both O- and N-linked)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "NeuGc3-Lc4Cer (Sialyl lactotetraosylceramide)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Agglutinin glycoproteins containing O-/N-linked (poly)lactosamine and hybrid oligosaccharides",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "\u03b1v\u03b23 Integrin (independent of expression of Heparan sulfate on cell-sulface)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "L-Galactose", "sugarbind_label": "", "id": "" },
+    { "label": "Sialic acid (\u03b12,8)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "SGPG (Sulfated glucuronyl paragloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "N-linked sialylated glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glycans containing \u03b12,6-linked sialic acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Gb4 (Globoside; Globotetraose; P antigen)",
+        "sugarbind_label": "Globotetraosylceramide (Globoside, Gb4)",
+        "id": "18"
+    },
+    {
+        "label": "Bis-sulfogangliotriaosylceramide (SB2)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialyl-dimeric Lewis x (SdiLex-HSA)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Mucin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "GgO4 (de-N-acylated)",
+        "sugarbind_label": "Fuc-gangliotetraosylceramide (H-5-ganglio, Fuc-GgO4)",
+        "id": "114"
+    },
+    { "label": "Galactose", "sugarbind_label": "Galactose (Gal)", "id": "187" },
+    { "label": "GM3(NeuGc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "N-acetylneuraminyl-a(2-3)-galactopyranosyl sequence",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Heparin (completely desulfated, N-acetylated)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Pentosan polysulfate (PP)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Cluster of differentiation 4 (CD4)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "GD1a",
+        "sugarbind_label": "Disialogangliotetraosylceramide (GD1a)",
+        "id": "22"
+    },
+    {
+        "label": "Basic fibroblast growth factor (bFGF)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Asialofetuin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sialyl Lewis x (SLex-HSA)",
+        "sugarbind_label": "6-sulfo sialyl Lewis x (Su-SaiLex, Su-SLex)",
+        "id": "128"
+    },
+    {
+        "label": "Galactosylceramide (hydroxylated fatty acids)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    { "label": "Globo-series GSL", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Mannose 6-phosphate insulin-like growth factor-II receptor (M6P/IGF-IIR)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Colonic mucin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "IgA",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "Sialyl Lewis a (SLea) (GSL)",
+        "sugarbind_label": "Sialyl Lewis a (NeuAca3-Lea)",
+        "id": "113"
+    },
+    { "label": "Haptoglobin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sia2-3Gal-containing receptors",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Neoglycoproteins (containing P1 Antigen)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "N-Acetylglucosamine",
+        "sugarbind_label": "N-acetylglucosamine (GlcNAc)",
+        "id": "61"
+    },
+    {
+        "label": "Lewis b (Leb-HSA)",
+        "sugarbind_label": "A Lewis b (A Leb)",
+        "id": "102"
+    },
+    {
+        "label": "Sulfo-gangliotetraosylceramide (Sulfo-GgO4)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glycoside p-nitrophenyl alpha-D-mannopyranoside",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Sialic acid (\u03b12,6)", "sugarbind_label": "", "id": "" },
+    { "label": "Tetrasaccharides", "sugarbind_label": "", "id": "" },
+    { "label": "GlcNAc sequence", "sugarbind_label": "", "id": "" },
+    { "label": "Galactosyl sulfatide", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Five-sugar monosialoganglioside",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "O-linked alpha 2,3 neuraminic acid on glycophorin A (GPA)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Epithelial type of glycolipid containing 2-hydroxy fatty acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Fucosylated PSGL-1 (P-selectin glycoprotein ligand-1)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Methyl-\u03b2-Gal", "sugarbind_label": "", "id": "" },
+    { "label": "GT1a", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Blood group B-Lewis b (BLeb) antigen",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Blood group H antigen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Lactosylceramide (d18:1-h16:0/t18:0-h24:0/t18:0-h16:0)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "Sialyl Lewis x (SLex) antigen",
+        "sugarbind_label": "6-sulfo sialyl Lewis x (Su-SaiLex, Su-SLex)",
+        "id": "128"
+    },
+    { "label": "\u03b2-D-glycosides", "sugarbind_label": "", "id": "" },
+    { "label": "Trisaccharides", "sugarbind_label": "", "id": "" },
+    { "label": "GD1a(NeuGc/NeuAc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "SSEA-4 (GSL) (Sialosyl galactosyl globoside; SGG; sialyl Gb5)",
+        "sugarbind_label": "SSEA-4 (Stage specific embryonic antigen-4)",
+        "id": "121"
+    },
+    { "label": "C4b-binding protein (C4bp)", "sugarbind_label": "", "id": "" },
+    { "label": "Phospholipids", "sugarbind_label": "", "id": "" },
+    { "label": "Fuc-nLc6 (VI2)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sialyl-6-Paragloboside (S-6-PG; \u03b12,6-sialylparagloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Glycosphingolipids", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Blood group A antigen analog",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Fucose",
+        "sugarbind_label": "Fucose (Fuc, L-Fucose)",
+        "id": "86"
+    },
+    {
+        "label": "alpha-D-galactopyranosyl-(1-4)-beta-D-galactopyranose",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Integrins", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Glucosamine-galactose carbohydrate",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Neuraminidase-insensitive, trypsin sensitive carbohydrate ligand",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GD1a-GT1b analog", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Gal alpha 1-4 Gal-containing isoreceptors",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "D-Galactose-containing residues",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Sialic acid", "sugarbind_label": "", "id": "" },
+    { "label": "alpha-methyl-fucoside", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Alpha-Galactosyl paragloboside",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "N-acetyllactosamine (LacNAc)",
+        "sugarbind_label": "2'-fluorine-3\u2032-sialyl-N-acetyllactosamine (2'F-3'SiaLacNAc(1-4))",
+        "id": "185"
+    },
+    {
+        "label": "Lactose",
+        "sugarbind_label": "Disialylactose (DiSai)",
+        "id": "42"
+    },
+    {
+        "label": "terminal Gal(3SO4) \u03b21- residues",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "PMN (polymorphonuclear leukocytes) surface glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Glycoproteins", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Blood group A antigen (A-tri-HSA)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Gangliosides", "sugarbind_label": "", "id": "" },
+    {
+        "label": "H5 type 1 pentaglycosylceramide (lacto-series)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Fucosyl Asialo GM1", "sugarbind_label": "", "id": "" },
+    { "label": "\u03b1v\u03b26 Integrin", "sugarbind_label": "", "id": "" },
+    { "label": "Ganglio glycolipids", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Heparan sulfate (fraction: HS-D)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Monohexyl ceramides (MHCer)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Blood group B antigen (B-tri-HSA)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Gal-nLc4Cer; P1 antigen (GSL)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Lactosylceramide (Lactocerebroside)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    { "label": "GT3", "sugarbind_label": "", "id": "" },
+    {
+        "label": "N-acetyl-b-maltoheptaosylamine sulfate (SM)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "I-active Gal2-lactoisooctaosylceramide",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glucosylceramide (d18:1/t18:0-16:0-24:0)",
+        "sugarbind_label": "Glucosylceramide (Ceramide monohexoside, GlcCer, CMH)",
+        "id": "5"
+    },
+    {
+        "label": "Gal(a1-4)Gal in globo-series of glycolipids",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM1(NeuAc/NeuGc)", "sugarbind_label": "", "id": "" },
+    { "label": "Extended GM1", "sugarbind_label": "Extended GM1", "id": "194" },
+    {
+        "label": "Sialylated type 2 chain conjugates (S-type 2-HSA)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "D-Mannose", "sugarbind_label": "", "id": "" },
+    { "label": "Melibiose", "sugarbind_label": "Melibiose", "id": "163" },
+    {
+        "label": "Endothelial cell-specific molecule (ESM)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Mannose", "sugarbind_label": "Mannose (Man)", "id": "44" },
+    {
+        "label": "GT1b (complex with synaptotagmin II)",
+        "sugarbind_label": "Trisialogangliotetraosylceramide (NeuAc-GT1b, GT1b)",
+        "id": "28"
+    },
+    { "label": "Blood group H1 antigen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "P-nitrophenyl-alpha-L-fucose",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "N-linked oligosaccharides of glycophorins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "NeuAc3-nLc6Cer (Sialyl neolactohexaosylceramide)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "GM1",
+        "sugarbind_label": "II3Neu5GcGg4Cer, GM1(Gc) (NeuGc-GM1)",
+        "id": "93"
+    },
+    {
+        "label": "\u03b1-Gal on Fab of IgM(\u03bb) MAb",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GD3(Neu5Ac9Ac)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "VLA-5 (very late activation antigen 5)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Blood group A antigen", "sugarbind_label": "", "id": "" },
+    { "label": "GD3(NeuAc)", "sugarbind_label": "", "id": "" },
+    { "label": "GT1b analog", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Surfactant-like particles (SLP)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Methyl-\u03b1-Gal", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Glucosylceramide (t18:0-h18:0)",
+        "sugarbind_label": "Glucosylceramide (Ceramide monohexoside, GlcCer, CMH)",
+        "id": "5"
+    },
+    { "label": "Chondroitin sulfate C", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Blood group A-Lewis b (ALeb) antigen",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM2(NeuAc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Gal alpha 1-4 Gal-containing glicolipids",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM1b", "sugarbind_label": "", "id": "" },
+    { "label": "N-linked glycans", "sugarbind_label": "", "id": "" },
+    { "label": "Poliovirus receptors (PVRs)", "sugarbind_label": "", "id": "" },
+    { "label": "Sialylparagloboside(NeuGc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Gangliotriaosylceramide sulfate (SM2)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "SSEA-3 (GSL) (Galactosyl globoside; Gb5)",
+        "sugarbind_label": "Gal(b1-3) globoside (SSEA-3, Stage-specific embryonic antigen-3)",
+        "id": "12"
+    },
+    {
+        "label": "SGLPG (Sulfated glucuronyl lactosaminyl paragloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GL-II glycolipid", "sugarbind_label": "", "id": "" },
+    { "label": "P1 antigen (GSL)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "I-active Sialyl lactoisooctaosylceramide",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Phosphatidylserine (PS)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "NeuAc/GlcNAc/(GlcNAc)n side chains of WGA-binding glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Heparan sulfate (fraction: HS-A)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Blood group O antigen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "NeuAc\u03b12,3-Gal/GalNAc side chains of MAA-binding glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "MHVR (murine member of the carcinoembryonic antigen family of glycoproteins)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "PGCs (polyglycosyl ceramides)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Alpha-methyl-galactoside", "sugarbind_label": "", "id": "" },
+    { "label": "Polylactosamine of band 3", "sugarbind_label": "", "id": "" },
+    { "label": "Blood group B antigen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Surface-localized glycoconjugates (non-sialylated GSL and glycoproteins)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Asialo GM1 (Gangliotetraosylceramide; Gg4; GA1)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Alpha-1-acid glycoprotein (AGP)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactosylceramide 6-sulfate",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactose on sulfated glycolipids",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "ICAM-1 (intercellular adhesion molecule-1) domain1/2",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "NeuAc\u03b13Gal\u03b2-containing glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialyl Lewis x (SLex) antigen (d18:1,18:0)",
+        "sugarbind_label": "6-sulfo sialyl Lewis x (Su-SaiLex, Su-SLex)",
+        "id": "128"
+    },
+    {
+        "label": "\u03b1-GalCer/CD1d tetramers",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Fetuin", "sugarbind_label": "", "id": "" },
+    { "label": "Decorin", "sugarbind_label": "", "id": "" },
+    { "label": "Fucosylamine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Glucosylceramide",
+        "sugarbind_label": "Glucosylceramide (Ceramide monohexoside, GlcCer, CMH)",
+        "id": "5"
+    },
+    { "label": "Sialylated oligosaccharides", "sugarbind_label": "", "id": "" },
+    { "label": "Laminin", "sugarbind_label": "", "id": "" },
+    { "label": "Acid glycosphingolipids", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Synthetic branched oligosaccharides: Man(a1-3)[Man(a1-6)]Man(a1-6)Man(a1-3)Man",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactosylated surface molecules (mainly \u03b2-anomer)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactosylceramide (hydroxylated/nonhydroxylated fatty acids)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "Seminolipid (Sulfogalactosylglycerolipid)",
+        "sugarbind_label": "Seminolipid",
+        "id": "140"
+    },
+    {
+        "label": "Junctional adhesion molecule A (JAM-A)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glycoproteins with \u03b12,3 N-linked sialic acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "GT1b",
+        "sugarbind_label": "Trisialogangliotetraosylceramide (NeuAc-GT1b, GT1b)",
+        "id": "28"
+    },
+    {
+        "label": "NAC-heparin (non-anticoagulant heparin)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Blood group antigens", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Gb3 (Globotriaosylceramide; Trihexosylceramide; Pk antigen (GSL); CTH) (t18:0-h20:0-h24:0)",
+        "sugarbind_label": "Globotriaosylceramide (CTH, Gb3, Trihexosylceramide)",
+        "id": "27"
+    },
+    { "label": "GgO3 (de-N- acylated)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Glycans containing \u03b12,3-linked sialic acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "N-Acetylgalactosamine",
+        "sugarbind_label": "N-acetylgalactosamine (GalNAc)",
+        "id": "36"
+    },
+    {
+        "label": "Human and avian receptors containing sialylated glycoconjugates",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Oligosaccharides rich in sialic acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "von Willebrand factor (VWF)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Pentasaccharide",
+        "sugarbind_label": "LSTc pentasaccharide",
+        "id": "202"
+    },
+    {
+        "label": "alpha-Mannosyl groups on glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Sphingomyelin", "sugarbind_label": "", "id": "" },
+    { "label": "GD1a(NeuGc)", "sugarbind_label": "", "id": "" },
+    { "label": "Plasminogen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human contact phase proteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialyl galactoside units of cell surface glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Mono-N-propionylated S-3-PG (paragloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "NeuAc\u03b12-3GalNAc\u03b21-4GlcNAc",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "\u03b2-linked galactosamine", "sugarbind_label": "", "id": "" },
+    {
+        "label": "N-Acetylneuraminic acid",
+        "sugarbind_label": "N-acetylneuraminic acid (NANA, Sialic acid, NeuAc)",
+        "id": "35"
+    },
+    {
+        "label": "Sialyl-dimeric Lewis x (SdiLex) (GSL)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glycoproteins with terminal NeuAc\u03b13Gal\u03b24GlcNAc-sequences",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Terminal N-Acetylgalactosamine residue in an alpha linkage",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialic acid-containing polysaccharides",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Inositol", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Gb3 (Globotriaosylceramide; Trihexosylceramide; Pk antigen (GSL); CTH)",
+        "sugarbind_label": "Globotriaosylceramide (CTH, Gb3, Trihexosylceramide)",
+        "id": "27"
+    },
+    {
+        "label": "Platelet-specific GSL (Stx band 0.03)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Blood group Lewis b (Leb) antigen",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialic acid \u03b12,6Gal\u03b21,4GalNAc",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "HSA glycoconjugates", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Complex of synaptotagmin II and ganglioside GT1b or GD1a",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Ceramide",
+        "sugarbind_label": "Disialogangliotetraosylceramide (NeuAc-GD1b, Disialoganglioside, GD1b)",
+        "id": "14"
+    },
+    { "label": "GlcNAc-6-P", "sugarbind_label": "", "id": "" },
+    {
+        "label": "GalNAc\u03b24Gal-containing GSLs",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Heparan sulfate", "sugarbind_label": "", "id": "" },
+    {
+        "label": "nLc4Cer (Neolactotetraosylceramide; Paragloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Sulfatide (CSE)", "sugarbind_label": "Sulfatide", "id": "142" },
+    { "label": "Fibrinogen", "sugarbind_label": "", "id": "" },
+    { "label": "GM3(Neu4Ac5Gc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Gb3 (Globotriaosylceramide; Trihexosylceramide; Pk antigen (GSL); CTH) (d18:1-16:0/24:0)",
+        "sugarbind_label": "Globotriaosylceramide (CTH, Gb3, Trihexosylceramide)",
+        "id": "27"
+    },
+    { "label": "Asialo gangliosides", "sugarbind_label": "", "id": "" },
+    { "label": "CD155", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Complement receptor 3 (CR3) integrins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "GlcNAc residues in the core of N-glycan on pSTf (porcine serum transferrin)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Sialic acid (\u03b12,3)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Galactosylceramide (or derivative)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    { "label": "Dermatan sulfate", "sugarbind_label": "", "id": "" },
+    { "label": "unnamed ligand", "sugarbind_label": "", "id": "" },
+    { "label": "C3 and complement factor H", "sugarbind_label": "", "id": "" },
+    {
+        "label": "DSGG (Disialosyl galactosyl globoside, disialyl Gb5)",
+        "sugarbind_label": "Disialosyl galactosyl globoside (DSGG)",
+        "id": "59"
+    },
+    {
+        "label": "isoGb3 (Isoglobotriaosylceramide; iGb3)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Gb2 (Galabiosylceramide)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Fucose ve mannose carbohydrate",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Salivary glycoprotein (gp340)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM4", "sugarbind_label": "", "id": "" },
+    {
+        "label": "\u03b1-mannose and \u03b1-glucose side chains of ConA-binding glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "CD48", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Chondroitin 6-sulfate (C-6S)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Gb5 (Forssman glycolipid)",
+        "sugarbind_label": "Gb5",
+        "id": "89"
+    },
+    { "label": "Sucrose", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Phosphatidylethanolamine (PE)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GAGs (glycosaminoglycans)", "sugarbind_label": "", "id": "" },
+    { "label": "D-Galactose", "sugarbind_label": "", "id": "" },
+    {
+        "label": "alpha-sialyl-beta-2,3-galactose-containing glycolipids and glycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "SB1a (gangliotetraosylceramide bis-sulfate; SD1a)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Heparan sulfate (independent of expression of \u03b1v\u03b23 Integrin on cell-sulface)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Fibronectin", "sugarbind_label": "", "id": "" },
+    { "label": "Galactose derivatives", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sialic acid(2-O-methyl-\u03b1-Neu5Ac (Neu5Ac2Me))",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Heparin", "sugarbind_label": "", "id": "" },
+    { "label": "Tamm-Horsfall protein (THP)", "sugarbind_label": "", "id": "" },
+    { "label": "\u03b1v\u03b23 Integrin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Minor NeuAc\u03b16-containing molecules",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactosylceramide (t18:0-h22:0-h24:0)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "Neuraminic acid-containing sialoglycoproteins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Neoglycoproteins (containing Pk Antigen)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Mr 36,900 PRG (Proline-Rich Glycoprotein)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactose-alpha-1,4-galactose",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Chondroitin sulfate A", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Lewis x (Lex) (GSL)",
+        "sugarbind_label": "6-sulfo sialyl Lewis x (Su-SaiLex, Su-SLex)",
+        "id": "128"
+    },
+    { "label": "Salivary glycoprotein", "sugarbind_label": "", "id": "" },
+    {
+        "label": "H5 type 2 pentaglycosylceramide (neolacto-series)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "\u03b1-Sialyl-2,3-lactose-containing receptors",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Thrombospondin (TSP)", "sugarbind_label": "", "id": "" },
+    { "label": "\u03b1-hydroxylated Gb3", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Glycoprotein with \u03b12,6 N-linked sialic acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Neoglycans (PSA-Lac)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Disialosyl lacto-N-nor-hexaosylceramide (DSnHC)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Mr 89,000 PRG (Proline-Rich Glycoprotein)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glucose",
+        "sugarbind_label": "Glucose (D-Glucose, Glc)",
+        "id": "192"
+    },
+    { "label": "Mannotriose", "sugarbind_label": "Mannotriose", "id": "73" },
+    {
+        "label": "Lactosylceramide (t18:0-h16:0-h24:0)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "nLc6 (Neolactohexaosylceramide)",
+        "sugarbind_label": "Neolactohexosylceramide (NLc6)",
+        "id": "84"
+    },
+    {
+        "label": "O-mannosyl glycans on alpha-dystroglycan (DG)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Uroplakins 1a and 1b containing a single N-linked carbohydrate of the high-mannose type",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sulfo-lactosylceramide (SM3)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Dextran sulfate", "sugarbind_label": "", "id": "" },
+    {
+        "label": "B6 type 2 glycosphingolipid (B6-2)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GL-III glycolipid", "sugarbind_label": "", "id": "" },
+    { "label": "GD2", "sugarbind_label": "GD2 (NeuAc-GD2)", "id": "94" },
+    {
+        "label": "Mannose-derived neoglycoproteins and dendrimers",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "unknown carbohydrate ligand", "sugarbind_label": "", "id": "" },
+    { "label": "GlcNAc(b1-3)Gal sequence", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Galactosylceramide (d18:1-h18:0-h24:0)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    { "label": "Gal-Gb3", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Neuraminic acid-containing sialoglycosphingolipids",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "I-active ganglioside",
+        "sugarbind_label": "I-Active ganglioside (NeuAc-G-10, NeuAca2-3I)",
+        "id": "111"
+    },
+    {
+        "label": "PMN (polymorphonuclear leukocytes) surface glycoproteins in the presence of sialic acid",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Lewis a (Lea) (GSL)",
+        "sugarbind_label": "Lewis a (Lea-5)",
+        "id": "56"
+    },
+    { "label": "Hs antigen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sialic acid linked to \u03b12,3Gal\u03b21,3GalNAc",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Bovine submaxillary mucin (BSM)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "factor H (fH)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "I-active Lactoisooctaosylceramide",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Galactosylceramide (Galactocerebroside)",
+        "sugarbind_label": "Galabiosylceramide (Digalactosylceramide)",
+        "id": "32"
+    },
+    {
+        "label": "Mono-de-N-acetylated S-3-PG (paragloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM1(NeuGc)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sialic acid-containing cell compounds",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Sialic acid(2-O-methyl-\u03b1-Neu5Gc (Neu5Gc2Me))",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "\u03b2-2 and \u03b2-7 integrins",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GM3(NeuAc)", "sugarbind_label": "", "id": "" },
+    { "label": "Collagen", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Heparin (N-desulfated, N-acetylated)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "CD77 (Globotriaosylceramide; Gb3)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "L-Fucose", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Galactose-alpha-1,3-galactose",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "\u03b2-GalNac-1,4-\u03b2-Gal-containing structures",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "NeuAc3-Lc4Cer (Sialyl lactotetraosylceramide)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "GQ1b", "sugarbind_label": "GQ1b (NeuAc-GQ1b)", "id": "38" },
+    { "label": "MUC16 mucin", "sugarbind_label": "", "id": "" },
+    {
+        "label": "A6 type 2 glycosphingolipid (A6-2)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "DSPG (Disialosyl paragloboside)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "116 kDa glycoprotein (containing sialic acid residues with N-linked glycans)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Blood group H1 antigen (HSA)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "De-N-sulfated heparin", "sugarbind_label": "", "id": "" },
+    { "label": "GL-IV glycolipid", "sugarbind_label": "", "id": "" },
+    { "label": "B-GM1", "sugarbind_label": "B-GM1", "id": "193" },
+    {
+        "label": "trisaccharide: Man(a1-3)Man(b1-4)GlcNAc",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "GD1b",
+        "sugarbind_label": "Disialogangliotetraosylceramide (NeuAc-GD1b, Disialoganglioside, GD1b)",
+        "id": "14"
+    },
+    { "label": "Collagen (type V)", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Sulfated glucuronyl paragloboside",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Synthetic branched oligosaccharides: Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-2)]Man(a1-3)Man",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Glucuronyl paragroboside (GPG)",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Collagen (type I)", "sugarbind_label": "", "id": "" }
+]

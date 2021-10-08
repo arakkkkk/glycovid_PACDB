@@ -1,0 +1,411 @@
+[
+    {
+        "label": "Moraxella catarrhalis",
+        "sugarbind_label": "Moraxella catarrhalis",
+        "id": "363"
+    },
+    { "label": "Semliki forest virus", "sugarbind_label": "", "id": "" },
+    { "label": "Rhinovirus", "sugarbind_label": "", "id": "" },
+    { "label": "Polyoma virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Pseudomonas aeruginosa",
+        "sugarbind_label": "Burkholderia cenocepacia J2135",
+        "id": "548"
+    },
+    {
+        "label": "Helicobacter canis",
+        "sugarbind_label": "Helicobacter canis CCUG 33835",
+        "id": "195"
+    },
+    { "label": "Staphylococcus haemolyticus", "sugarbind_label": "", "id": "" },
+    { "label": "Bordetella parapertussis", "sugarbind_label": "", "id": "" },
+    { "label": "Hepatitis virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Human immunodeficiency virus",
+        "sugarbind_label": "Lentivirus Human Immunodeficiency Virus Type 1",
+        "id": "224"
+    },
+    {
+        "label": "Helicobacter felis",
+        "sugarbind_label": "Helicobacter felis CCUG 28539",
+        "id": "197"
+    },
+    {
+        "label": "Campylobacter jejuni",
+        "sugarbind_label": "Campylobacter jejuni N/S",
+        "id": "45"
+    },
+    { "label": "Reovirus", "sugarbind_label": "Reovirus", "id": "437" },
+    {
+        "label": "Lactobacillus johnsonii",
+        "sugarbind_label": "Lactobacillus johnsonii NCC533",
+        "id": "357"
+    },
+    { "label": "Paramyxovirus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Escherichia coli",
+        "sugarbind_label": "Escherichia coli 107/86",
+        "id": "115"
+    },
+    { "label": "Herpes virus", "sugarbind_label": "", "id": "" },
+    { "label": "Pseudomonas maltophilia", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Legionella pneumophila",
+        "sugarbind_label": "Legionella pneumophila N/S",
+        "id": "360"
+    },
+    {
+        "label": "Sendai virus",
+        "sugarbind_label": "Respirovirus Sendai virus Enders",
+        "id": "457"
+    },
+    { "label": "Borrelia afzelii", "sugarbind_label": "", "id": "" },
+    { "label": "Streptococcus parasanguinis", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Haemophilus influenzae",
+        "sugarbind_label": "Haemophilus influenzae 33391",
+        "id": "183"
+    },
+    {
+        "label": "Staphylococcus aureus",
+        "sugarbind_label": "Staphylococcus aureus 8095",
+        "id": "478"
+    },
+    {
+        "label": "Lymphocytic choriomeningitis virus",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Clostridium difficile", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Candida albicans",
+        "sugarbind_label": "Candida albicans ATCC 18804",
+        "id": "52"
+    },
+    { "label": "Streptococcus agalactiae", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Propionibacterium freudenreichii",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    { "label": "Rabbitpox virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Helicobacter mustelae",
+        "sugarbind_label": "Helicobacter mustelae 23950/1",
+        "id": "201"
+    },
+    { "label": "Rubulavirus", "sugarbind_label": "", "id": "" },
+    { "label": "Enterococcus faecalis", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Helicobacter hepaticus",
+        "sugarbind_label": "Helicobacter hepaticus CCUG 33637",
+        "id": "199"
+    },
+    {
+        "label": "Paracoccidioides brasiliensis",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Plasmodium falciparum",
+        "sugarbind_label": "Plasmodium falciparum N/S",
+        "id": "409"
+    },
+    {
+        "label": "Chlamydia trachomatis",
+        "sugarbind_label": "Chlamydia trachomatis N/S",
+        "id": "60"
+    },
+    {
+        "label": "Trypanosoma cruzi",
+        "sugarbind_label": "Trypanosoma cruzi N/S",
+        "id": "519"
+    },
+    {
+        "label": "Campylobacter upsaliensis",
+        "sugarbind_label": "Campylobacter upsaliensis N/S",
+        "id": "49"
+    },
+    {
+        "label": "Histoplasma capsulatum",
+        "sugarbind_label": "Histoplasma capsulatum CDC B923",
+        "id": "220"
+    },
+    {
+        "label": "Salmonella typhimurium",
+        "sugarbind_label": "Salmonella typhimurium N/S",
+        "id": "451"
+    },
+    {
+        "label": "Streptococcus gordonii",
+        "sugarbind_label": "Streptococcus gordonii Challis",
+        "id": "487"
+    },
+    { "label": "Poliovirus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Neisseria meningitidis",
+        "sugarbind_label": "Neisseria meningitidis N/S",
+        "id": "383"
+    },
+    {
+        "label": "Yersinia pestis",
+        "sugarbind_label": "Yersinia pestis N/S",
+        "id": "546"
+    },
+    {
+        "label": "Klebsiella pneumoniae",
+        "sugarbind_label": "Klebsiella pneumoniae 27736",
+        "id": "348"
+    },
+    { "label": "Actinomyces odontolyticus", "sugarbind_label": "", "id": "" },
+    { "label": "Salmonella milwaukee", "sugarbind_label": "", "id": "" },
+    { "label": "Ralstonia solanacearum", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Lactobacillus casei",
+        "sugarbind_label": "Lactobacillus casei N/S",
+        "id": "355"
+    },
+    { "label": "Streptococcus pyogenes", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Neisseria gonorrhoeae",
+        "sugarbind_label": "Neisseria gonorrhoeae FA5100",
+        "id": "372"
+    },
+    {
+        "label": "Propionibacterium",
+        "sugarbind_label": "Propionibacterium granulosum N/S",
+        "id": "416"
+    },
+    {
+        "label": "Shigella dysenteriae",
+        "sugarbind_label": "Shigella dysenteriae N/S Shiga toxin",
+        "id": "467"
+    },
+    {
+        "label": "Haemophilus parainfluenzae",
+        "sugarbind_label": "Haemophilus parainfluenzae ATCC 33392",
+        "id": "189"
+    },
+    {
+        "label": "Borrelia burgdorferi",
+        "sugarbind_label": "Borrelia burgdorferi N/S",
+        "id": "24"
+    },
+    {
+        "label": "Serratia marcescens",
+        "sugarbind_label": "Serratia marcescens N/S",
+        "id": "460"
+    },
+    {
+        "label": "Vibrio harveyi",
+        "sugarbind_label": "Vibrio harveyi N/S",
+        "id": "543"
+    },
+    { "label": "Adeno-associated virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Fusobacterium nucleatum",
+        "sugarbind_label": "Fusobacterium nucleatum N/S",
+        "id": "180"
+    },
+    {
+        "label": "Streptococcus pneumoniae",
+        "sugarbind_label": "Streptococcus pneumoniae 27336",
+        "id": "495"
+    },
+    {
+        "label": "Actinomyces viscosus",
+        "sugarbind_label": "Actinomyces viscosus",
+        "id": "14"
+    },
+    {
+        "label": "Theiler's murine encephalomyelitis virus",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Rotavirus",
+        "sugarbind_label": "Rotavirus Bovine rotavirus A NCDV/G6",
+        "id": "440"
+    },
+    { "label": "Streptococcus mutans", "sugarbind_label": "", "id": "" },
+    { "label": "Coxsackievirus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Adenovirus",
+        "sugarbind_label": "Adenovirus Human adenovirus D 19",
+        "id": "565"
+    },
+    {
+        "label": "Foot-and-mouth disease virus",
+        "sugarbind_label": "",
+        "id": ""
+    },
+    {
+        "label": "Propionibacterium granulosum",
+        "sugarbind_label": "Propionibacterium granulosum N/S",
+        "id": "416"
+    },
+    { "label": "Equine rhinitis A virus", "sugarbind_label": "", "id": "" },
+    { "label": "Mumps virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Actinobacillus pleuropneumoniae",
+        "sugarbind_label": "Actinobacillus pleuropneumoniae Serotype 1",
+        "id": "3"
+    },
+    {
+        "label": "Helicobacter bilis",
+        "sugarbind_label": "Helicobacter bilis CCUG 38995",
+        "id": "193"
+    },
+    {
+        "label": "Cryptococcus neoformans",
+        "sugarbind_label": "Cryptococcus neoformans ATCC 34877",
+        "id": "101"
+    },
+    { "label": "Rabies virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Clostridium perfringens",
+        "sugarbind_label": "Clostridium perfringens N/S Delta toxin",
+        "id": "84"
+    },
+    { "label": "Parvovirus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Shigella flexneri",
+        "sugarbind_label": "Shigella flexneri N/S",
+        "id": "469"
+    },
+    { "label": "Hantaan virus", "sugarbind_label": "", "id": "" },
+    { "label": "Vibrio alginolyticus", "sugarbind_label": "", "id": "" },
+    { "label": "Newcastle disease virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Pasteurella haemolytica",
+        "sugarbind_label": "Pasteurella haemolytica N/S",
+        "id": "406"
+    },
+    { "label": "Cowpox virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Norovirus",
+        "sugarbind_label": "Norovirus norwalk virus BUDS",
+        "id": "387"
+    },
+    { "label": "Rabbit fibroma virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Saccharomyces cerevisiae",
+        "sugarbind_label": "Saccharomyces cerevisiae ATCC 18824",
+        "id": "445"
+    },
+    {
+        "label": "Entamoeba histolytica",
+        "sugarbind_label": "Entamoeba histolytica HM1-IMSS",
+        "id": "107"
+    },
+    {
+        "label": "Clostridium botulinum",
+        "sugarbind_label": "Clostridium botulinum N/S Neurotoxin type A",
+        "id": "76"
+    },
+    {
+        "label": "Actinomyces naeslundii",
+        "sugarbind_label": "Actinomyces naeslundii ATCC 12104",
+        "id": "11"
+    },
+    {
+        "label": "Mycoplasma gallisepticum",
+        "sugarbind_label": "Mycoplasma gallisepticum N/S",
+        "id": "366"
+    },
+    { "label": "Pseudomonas cepacia", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Helicobacter pylori",
+        "sugarbind_label": "Helicobacter pylori 032",
+        "id": "212"
+    },
+    { "label": "Streptococcus sanguis", "sugarbind_label": "", "id": "" },
+    { "label": "Listeria innocua", "sugarbind_label": "", "id": "" },
+    { "label": "Anaplasma phagocytophilum", "sugarbind_label": "", "id": "" },
+    { "label": "Lassa virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Borrelia hermsii",
+        "sugarbind_label": "Borrelia hermsii N/S",
+        "id": "26"
+    },
+    { "label": "Myxoma virus", "sugarbind_label": "", "id": "" },
+    { "label": "Leptospira interrogans", "sugarbind_label": "", "id": "" },
+    { "label": "Salmonella enteritidis", "sugarbind_label": "", "id": "" },
+    { "label": "Salmonella spp.", "sugarbind_label": "", "id": "" },
+    { "label": "Anaplasma marginale", "sugarbind_label": "", "id": "" },
+    { "label": "Staphylococcus epidermidis", "sugarbind_label": "", "id": "" },
+    { "label": "Listeria monocytogenes", "sugarbind_label": "", "id": "" },
+    { "label": "Picornaviruses", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Streptococcus mitis",
+        "sugarbind_label": "Streptococcus mitis N/S",
+        "id": "492"
+    },
+    { "label": "Cytomegalovirus", "sugarbind_label": "", "id": "" },
+    { "label": "Borrelia garinii", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Streptococcus suis",
+        "sugarbind_label": "Streptococcus suis 628",
+        "id": "507"
+    },
+    { "label": "Treponema pallidum", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Influenza virus",
+        "sugarbind_label": "Parainfluenza virus 5 (SV5) hPIV-5",
+        "id": "399"
+    },
+    {
+        "label": "Clostridium tetani",
+        "sugarbind_label": "Clostridium tetani N/S Tetanus neurotoxin",
+        "id": "87"
+    },
+    {
+        "label": "Bordetella pertussis",
+        "sugarbind_label": "Bordetella pertussis",
+        "id": "18"
+    },
+    { "label": "Vaccinia virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Staphylococcus saprophyticus",
+        "sugarbind_label": "Staphylococcus saprophyticus N/S",
+        "id": "481"
+    },
+    {
+        "label": "Sporothrix schenckii",
+        "sugarbind_label": "Sporothrix schenckii CDC B4668",
+        "id": "472"
+    },
+    { "label": "Herpes simplex virus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Burkholderia pseudomallei",
+        "sugarbind_label": "Burkholderia pseudomallei H-99",
+        "id": "38"
+    },
+    {
+        "label": "Vibrio cholerae",
+        "sugarbind_label": "Vibrio cholerae ATCC 14034",
+        "id": "523"
+    },
+    { "label": "Streptococcus sobrinus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Burkholderia cepacia",
+        "sugarbind_label": "Burkholderia cepacia",
+        "id": "30"
+    },
+    { "label": "New world arenavirus", "sugarbind_label": "", "id": "" },
+    {
+        "label": "Chlamydia pneumoniae",
+        "sugarbind_label": "Chlamydia pneumoniae N/S",
+        "id": "58"
+    },
+    {
+        "label": "Mycoplasma pneumoniae",
+        "sugarbind_label": "Mycoplasma pneumoniae N/S",
+        "id": "368"
+    },
+    {
+        "label": "Coronavirus",
+        "sugarbind_label": "Coronavirus Betacoronavirus OC43",
+        "id": "98"
+    }
+]

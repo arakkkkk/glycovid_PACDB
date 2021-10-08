@@ -1,0 +1,667 @@
+[
+    {
+        "sequence": "Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR002182",
+        "glytoucanid": "G00059MO"
+    },
+    {
+        "sequence": "GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026907",
+        "glytoucanid": "G00061MO"
+    },
+    { "sequence": "Man/Glc", "jcggid": "Man/Glc" },
+    { "sequence": "NeuAc(a2-3)Gal/GalNAc", "jcggid": "NeuAc(a2-3)Gal/GalNAc" },
+    { "sequence": "NeuAc/GlcNAc", "jcggid": "NeuAc/GlcNAc" },
+    { "sequence": "Glc", "jcggid": "Glc" },
+    { "sequence": "Man", "jcggid": "Man" },
+    {
+        "sequence": "Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR001961",
+        "glytoucanid": "G84224TW"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR005131",
+        "glytoucanid": "G40183QN"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR024659",
+        "glytoucanid": "G46677TE"
+    },
+    {
+        "sequence": "Gal(b1-1)Cer",
+        "jcggid": "JCGG-STR031555",
+        "glytoucanid": "G65889KE"
+    },
+    {
+        "sequence": "GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR003580",
+        "glytoucanid": "G90562PB"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027464",
+        "glytoucanid": "G21856LC"
+    },
+    {
+        "sequence": "Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR002182",
+        "glytoucanid": "G00059MO"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR002614",
+        "glytoucanid": "G48558GR"
+    },
+    {
+        "sequence": "GalNAc(a1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR003244",
+        "glytoucanid": "G80062GG"
+    },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR003473",
+        "glytoucanid": "G98544DH"
+    },
+    {
+        "sequence": "GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR004355",
+        "glytoucanid": "G79389NT"
+    },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR004466",
+        "glytoucanid": "G18625KA"
+    },
+    {
+        "sequence": "GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR004909",
+        "glytoucanid": "G02657AK"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR005020",
+        "glytoucanid": "G91237TK"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR005131",
+        "glytoucanid": "G40183QN"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR024659",
+        "glytoucanid": "G46677TE"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR024670",
+        "glytoucanid": "G37184KW"
+    },
+    {
+        "sequence": "GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026907",
+        "glytoucanid": "G00061MO"
+    },
+    {
+        "sequence": "Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR031569",
+        "glytoucanid": "G71142DF"
+    },
+    {
+        "sequence": "Gal(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR031555",
+        "glytoucanid": "G65889KE"
+    },
+    { "sequence": "Gal", "jcggid": "Gal" },
+    { "sequence": "Gal(a1-3)Gal", "jcggid": "Gal(a1-3)Gal" },
+    { "sequence": "Gal(a1-4)Gal", "jcggid": "Gal(a1-4)Gal" },
+    { "sequence": "Fuc", "jcggid": "Fuc" },
+    { "sequence": "Gal(a1-6)Glc", "jcggid": "Gal(a1-6)Glc" },
+    { "sequence": "GalNAc", "jcggid": "GalNAc" },
+    { "sequence": "GlcNAc(b1-3)Gal", "jcggid": "GlcNAc(b1-3)Gal" },
+    {
+        "sequence": "Gal(a1-4)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR009006",
+        "glytoucanid": "G12460DL"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR010708",
+        "glytoucanid": "G91649BT"
+    },
+    {
+        "sequence": "Gal(a1-4)Gal(b1-1)Cer",
+        "jcggid": "JCGG-STR026896",
+        "glytoucanid": "G67988RO"
+    },
+    {
+        "sequence": "GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027022",
+        "glytoucanid": "G06239NA"
+    },
+    {
+        "sequence": "Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR002827",
+        "glytoucanid": "G00049MO"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR003128",
+        "glytoucanid": "G97932OH"
+    },
+    {
+        "sequence": "GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR003580",
+        "glytoucanid": "G90562PB"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR008940",
+        "glytoucanid": "G60645OK"
+    },
+    {
+        "sequence": "Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR009051",
+        "glytoucanid": "G77593JU"
+    },
+    {
+        "sequence": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR009061",
+        "glytoucanid": "G96538JO"
+    },
+    {
+        "sequence": "Fuc(a1-2)Gal(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR011603",
+        "glytoucanid": "G98465JN"
+    },
+    {
+        "sequence": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR015456",
+        "glytoucanid": "G37830TX"
+    },
+    {
+        "sequence": "GalNAc(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026482",
+        "glytoucanid": "G51699SI"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026929",
+        "glytoucanid": "G99053DY"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027164",
+        "glytoucanid": "G78074HX"
+    },
+    {
+        "sequence": "GalNAc(b1-3)Gal(a1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027175",
+        "glytoucanid": "G57710SU"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027464",
+        "glytoucanid": "G21856LC"
+    },
+    {
+        "sequence": "GalNAc(b1-3)[Gal(a1-3)]nGal(a1-4)Gal(b1-4)Glc(b1-1)Cer *n=1-5 [ Not Binding ]",
+        "jcggid": "GalNAc(b1-3)[Gal(a1-3)]nGal(a1-4)Gal(b1-4)Glc(b1-1)Cer *n=1-5"
+    },
+    {
+        "sequence": "[Gal(a1-3)]nGal(a1-4)Gal(b1-4)Glc(b1-1)Cer *n=2-5 [ Not Binding ]",
+        "jcggid": "[Gal(a1-3)]nGal(a1-4)Gal(b1-4)Glc(b1-1)Cer *n=2-5"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR002614",
+        "glytoucanid": "G48558GR"
+    },
+    { "sequence": "GlcNAc", "jcggid": "GlcNAc" },
+    {
+        "sequence": "Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR002827",
+        "glytoucanid": "G00049MO"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR005020",
+        "glytoucanid": "G91237TK"
+    },
+    {
+        "sequence": "Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026439",
+        "glytoucanid": "G58896AZ"
+    },
+    {
+        "sequence": "Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR032158",
+        "glytoucanid": "G84034JH"
+    },
+    {
+        "sequence": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-3)GlcNAc",
+        "jcggid": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-3)GlcNAc"
+    },
+    { "sequence": "Fuc(a1-2)Gal", "jcggid": "Fuc(a1-2)Gal" },
+    {
+        "sequence": "Gal(a1-3)[Fuc(a1-2)]Gal",
+        "jcggid": "Gal(a1-3)[Fuc(a1-2)]Gal"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026525",
+        "glytoucanid": "G75789AR"
+    },
+    {
+        "sequence": "GalNAc(b1-4)[NeuGc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR009731",
+        "glytoucanid": "G56478LD"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)[NeuGc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR018397",
+        "glytoucanid": "G24034CH"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026566",
+        "glytoucanid": "G39884QV"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027108",
+        "glytoucanid": "G01767JJ"
+    },
+    {
+        "sequence": "Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR001961",
+        "glytoucanid": "G84224TW"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026525",
+        "glytoucanid": "G75789AR"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027076",
+        "glytoucanid": "G50321QR"
+    },
+    {
+        "sequence": "GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR004355",
+        "glytoucanid": "G79389NT"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR013587",
+        "glytoucanid": "G09741DV"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuGc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR024257",
+        "glytoucanid": "G73381RY"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027057",
+        "glytoucanid": "G96401FK"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)[NeuGc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR018397",
+        "glytoucanid": "G24034CH"
+    },
+    {
+        "sequence": "JCGG-STR025471 [*]",
+        "jcggid": "JCGG-STR025471",
+        "glytoucanid": "G17041CW"
+    },
+    {
+        "sequence": "NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026960",
+        "glytoucanid": "G83513YI"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR032342",
+        "glytoucanid": "G55153IW"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027076",
+        "glytoucanid": "G50321QR"
+    },
+    {
+        "sequence": "JCGG-STR026472 [*]",
+        "jcggid": "JCGG-STR026472",
+        "glytoucanid": "G09552LA"
+    },
+    {
+        "sequence": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-3)[Fuc(a1-4)]GlcNAc",
+        "jcggid": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-3)[Fuc(a1-4)]GlcNAc"
+    },
+    {
+        "sequence": "Gal(a1-3)[Fuc(a1-2)]Gal(b1-3)[Fuc(a1-4)]GlcNAc",
+        "jcggid": "Gal(a1-3)[Fuc(a1-2)]Gal(b1-3)[Fuc(a1-4)]GlcNAc"
+    },
+    {
+        "sequence": "Fuc(a1-2)Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(c)-APD",
+        "jcggid": "Fuc(a1-2)Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(c)-APD"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR032269",
+        "glytoucanid": "G03067VG"
+    },
+    {
+        "sequence": "Fuc(a1-2)Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)Glc(c)-APD",
+        "jcggid": "Fuc(a1-2)Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)Glc(c)-APD"
+    },
+    {
+        "sequence": "Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR007014",
+        "glytoucanid": "G26123AX"
+    },
+    {
+        "sequence": "Gal(a1-3)[Fuc(a1-2)]Gal(b)-O-APE",
+        "jcggid": "Gal(a1-3)[Fuc(a1-2)]Gal(b)-O-APE"
+    },
+    {
+        "sequence": "Gal(a1-3)[Fuc(a1-2)]Gal [ Not Binding ]",
+        "jcggid": "Gal(a1-3)[Fuc(a1-2)]Gal"
+    },
+    {
+        "sequence": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b)-O-APE",
+        "jcggid": "GalNAc(a1-3)[Fuc(a1-2)]Gal(b)-O-APE"
+    },
+    {
+        "sequence": "Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR007014",
+        "glytoucanid": "G26123AX"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc",
+        "jcggid": "NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)GlcNAc",
+        "jcggid": "Gal(a1-3)Gal(b1-4)GlcNAc"
+    },
+    {
+        "sequence": "GalNAc(b1-3)Gal(b1-4)GlcNAc",
+        "jcggid": "GalNAc(b1-3)Gal(b1-4)GlcNAc"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027164",
+        "glytoucanid": "G78074HX"
+    },
+    {
+        "sequence": "GalNAc(a1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR003244",
+        "glytoucanid": "G80062GG"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR024670",
+        "glytoucanid": "G37184KW"
+    },
+    { "sequence": "Gal(b1-4)Glc(b1-?)", "jcggid": "Gal(b1-4)Glc(b1-?)" },
+    { "sequence": "Fuc [ Not Binding ]", "jcggid": "Fuc" },
+    { "sequence": "Glc [ Not Binding ]", "jcggid": "Glc" },
+    { "sequence": "GlcNAc [ Not Binding ]", "jcggid": "GlcNAc" },
+    { "sequence": "Man [ Not Binding ]", "jcggid": "Man" },
+    {
+        "sequence": "GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR004909",
+        "glytoucanid": "G02657AK"
+    },
+    { "sequence": "NeuAc(a2-3)", "jcggid": "NeuAc(a2-3)" },
+    {
+        "sequence": "Gal(3SO4)(b1-1)Cer",
+        "jcggid": "JCGG-STR001855",
+        "glytoucanid": "G72548RZ"
+    },
+    {
+        "sequence": "Gal(3SO4)(b1-1)-alkylacylglycerol",
+        "jcggid": "Gal(3SO4)(b1-1)-alkylacylglycerol"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc",
+        "jcggid": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc"
+    },
+    {
+        "sequence": "Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc",
+        "jcggid": "Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc"
+    },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR004466",
+        "glytoucanid": "G18625KA"
+    },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR009148",
+        "glytoucanid": "G70647TI"
+    },
+    {
+        "sequence": "Man(a1-2)Man(a1-6)Man(a1-6)",
+        "jcggid": "Man(a1-2)Man(a1-6)Man(a1-6)"
+    },
+    {
+        "sequence": "HSO3(-3)Gal(b1-1)Cer",
+        "jcggid": "JCGG-STR001855",
+        "glytoucanid": "G72548RZ"
+    },
+    {
+        "sequence": "Fuc(a1-2)Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026492",
+        "glytoucanid": "G57920AK"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR009202",
+        "glytoucanid": "G28566CQ"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026949",
+        "glytoucanid": "G79536OW"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027271",
+        "glytoucanid": "G03277YI"
+    },
+    {
+        "sequence": "NeuAc(a2-6)Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR029854",
+        "glytoucanid": "G48838EV"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR012155",
+        "glytoucanid": "G03361KC"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR024648",
+        "glytoucanid": "G30207PZ"
+    },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-8)NeuAc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026373",
+        "glytoucanid": "G93899SO"
+    },
+    {
+        "sequence": "Ac(-9)Neu5Ac(a2-8)NeuAc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026970",
+        "glytoucanid": "G74121RX"
+    },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027119",
+        "glytoucanid": "G68110IF"
+    },
+    {
+        "sequence": "NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR032342",
+        "glytoucanid": "G55153IW"
+    },
+    {
+        "sequence": "Ac(-4)Neu5Gc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "Ac(-4)Neu5Gc(a2-3)Gal(b1-4)Glc(b1-1)Cer"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR009202",
+        "glytoucanid": "G28566CQ"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026949",
+        "glytoucanid": "G79536OW"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027108",
+        "glytoucanid": "G01767JJ"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR032269",
+        "glytoucanid": "G03067VG"
+    },
+    {
+        "sequence": "Ac(-9)NeuAc(a2-8)NeuAc(a2-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026970",
+        "glytoucanid": "G74121RX"
+    },
+    {
+        "sequence": "NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026960",
+        "glytoucanid": "G83513YI"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027271",
+        "glytoucanid": "G03277YI"
+    },
+    {
+        "sequence": "NeuAc(a2-6)Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR029854",
+        "glytoucanid": "G48838EV"
+    },
+    {
+        "sequence": "Ac(-4)NeuGc(a2-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "Ac(-4)NeuGc(a2-3)Gal(b1-4)Glc(b1-1)Cer"
+    },
+    { "sequence": "NeuAc(a2-3)Gal", "jcggid": "NeuAc(a2-3)Gal" },
+    {
+        "sequence": "GlcA(3SO4)(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR002718",
+        "glytoucanid": "G39133HC"
+    },
+    {
+        "sequence": "Gal(6SO4)(b1-1)Cer",
+        "jcggid": "JCGG-STR008449",
+        "glytoucanid": "G60011XD"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR008940",
+        "glytoucanid": "G60645OK"
+    },
+    {
+        "sequence": "HSO3(-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027263",
+        "glytoucanid": "G20044TD"
+    },
+    {
+        "sequence": "Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR031569",
+        "glytoucanid": "G71142DF"
+    },
+    {
+        "sequence": "Gal(3SO4)(b1-3)-alkylacylglycerol",
+        "jcggid": "Gal(3SO4)(b1-3)-alkylacylglycerol"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR009159",
+        "glytoucanid": "G14974EY"
+    },
+    {
+        "sequence": "Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR013587",
+        "glytoucanid": "G09741DV"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR027057",
+        "glytoucanid": "G96401FK"
+    },
+    {
+        "sequence": "Gal(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR029003",
+        "glytoucanid": "G98726UE"
+    },
+    {
+        "sequence": "Gal(b1-4)GlcNAc(b1-4)Gal(b1-4)Glc",
+        "jcggid": "JCGG-STR026615",
+        "glytoucanid": "G64223CQ"
+    },
+    {
+        "sequence": "Gal(b1-3)[NeuAc(a2-6)]GalNAc(b1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR015645",
+        "glytoucanid": "G54721WC"
+    },
+    {
+        "sequence": "GalNAc(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026482",
+        "glytoucanid": "G51699SI"
+    },
+    {
+        "sequence": "Gal(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR026929",
+        "glytoucanid": "G99053DY"
+    },
+    {
+        "sequence": "GalNAc(b1-3)Gal(a1-3)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR027175",
+        "glytoucanid": "G57710SU"
+    },
+    {
+        "sequence": "GalNAc(b1-3)[Gal(a1-3)]nGal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "GalNAc(b1-3)[Gal(a1-3)]nGal(a1-4)Gal(b1-4)Glc(b1-1)Cer"
+    },
+    { "sequence": "Gal(b1-3)GalNAc", "jcggid": "Gal(b1-3)GalNAc" },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR003128",
+        "glytoucanid": "G97932OH"
+    },
+    {
+        "sequence": "NeuAc(a2-3)Gal(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc(b1-1)Cer",
+        "jcggid": "JCGG-STR011749",
+        "glytoucanid": "G32254QI"
+    },
+    {
+        "sequence": "HSO3(-3)Gal(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR001855",
+        "glytoucanid": "G72548RZ"
+    },
+    {
+        "sequence": "Gal(a1-4)Gal(b1-1)Cer [ Not Binding ]",
+        "jcggid": "JCGG-STR026896",
+        "glytoucanid": "G67988RO"
+    },
+    { "sequence": "Cer [ Not Binding ]", "jcggid": "Cer" },
+    {
+        "sequence": "NeuAc(a2-8)NeuAc(a2-3)[Gal(b1-4)GlcNAc]2(b1-3)Gal(b1-4)Glc(b1-1)Cer [ Not Binding ]",
+        "jcggid": "NeuAc(a2-8)NeuAc(a2-3)[Gal(b1-4)GlcNAc]2(b1-3)Gal(b1-4)Glc(b1-1)Cer"
+    }
+]
