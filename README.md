@@ -53,9 +53,9 @@ https://docs.google.com/document/d/1b9aF3bTt-7Pk_5iK9_wQ8Nznuc49ihrsg0cE6dgEvx0/
 2. agent のデータについて
     - スクレイピングプログラムでは agent データを sugarbindid に変換できたものが少なかった.
     - 以下サイトを参考にしながら sugarbind での検索ワードを調整...?
-    - http://togogenome.org/sparqlist/togogenome_organism_names
-    - http://togogenome.org/sparql
-    - http://togogenome.org/sparqlist/
+        - http://togogenome.org/sparqlist/togogenome_organism_names
+        - http://togogenome.org/sparql
+        - http://togogenome.org/sparqlist/
 3. 現在のすべてのデータに対して(/data/\*)
     - 現在 json の
       label に pacdb で保存されていたデータ
